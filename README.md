@@ -11,5 +11,4 @@
 <a href="https://www.instagram.com/christos_kasou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christos_kasou" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/christos-kasoulides-a97552209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ckasou" height="30" width="40" /></a>
 </p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="gpsevdiotis" /></p>
+
