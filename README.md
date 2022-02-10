@@ -1,10 +1,9 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, welcome to my Github Profile</h1>
 <h2 align="center">I am Christos Kasoulides, </h2>
 <h3 align="center">BSc Computer Science Student @ University of Cyprus</h3>
 <hr>
-<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">	
 <a href="https://www.facebook.com/christos.kasoulides" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christoskasoulides" height="30" width="40" /></a>
