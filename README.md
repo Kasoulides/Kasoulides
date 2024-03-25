@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, welcome to my Github Profile</h1>
 <h2 align="center">I am Christos Kasoulides, </h2>
-<h3 align="center">BSc Computer Science Student @ University of Cyprus</h3>
+<h3 align="center">Computer Science Graduate @ University of Cyprus</h3>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">	
