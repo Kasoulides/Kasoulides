@@ -1,11 +1,22 @@
+<h1 align="center">Hi 👋, I'm Christos Kasoulides</h1>
+<h3 align="center">CS @ University of Cyprus (ML/AI)</h3>
 
-
-<h1 align="center">Hi 👋, welcome to my Github Profile</h1>
-<h2 align="center">I am Christos Kasoulides, </h2>
-<h3 align="center">Computer Science Graduate from the University of Cyprus</h3>
-<hr>
-<h3 align="center">Connect with me:</h3>
-<p align="center">	
-<a href="https://www.linkedin.com/in/christos-kasoulides-a97552209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ckasou" height="30" width="40" /></a>
+ <h3 align="center">What I'm working on</h3>
+<p align="center">
+🤖 AI automations<br>
+❤️ ML models<br>
+🔗 API integrations<br>
+⚙️ Automations<br>
 </p>
 
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+<code>Python</code> <code>LLMs</code> <code>Make.com</code> <code>SQL</code> <code>Firebase</code>
+</p>
+
+<h3 align="center">Connect</h3>
+<p align="center">
+<a href="https://linkedin.com/in/christos-kasoulides-a97552209/"><b>LinkedIn</b></a> - <a href="mailto:kasoulideschristos@gmail.com"><b>Email</b></a>
+</p>
+
+<p align="center"><i>Currently @ NCR Atleos & E-mbracelet🚀</i></p>
